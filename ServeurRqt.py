@@ -2,7 +2,7 @@
 # Script:               srv_standalone.py
 # Author:               SCH
 # Review :              SCH
-# Compatibility (1):    Python 2.7.10
+# Compatibility (1):    Python 3.7.9
 # Compatibility (2):    
 # Dependencies (1):     
 # Dependencies (2):     
